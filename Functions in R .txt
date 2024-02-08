@@ -1,0 +1,18 @@
+Functions in R are reusable pieces of code designed to perform a specific task. They take inputs, process them, and produce outputs. Here's a brief explanation for each function in one line:
+
+1. `log()`: Computes natural logarithm.
+2. `log10()`: Computes base 10 logarithm.
+3. `class()`: Returns the class of an R object.
+4. `length()`: Returns the number of elements in an object.
+5. `head()`: Returns the first few elements of an object.
+6. `tail()`: Returns the last few elements of an object.
+7. `summary()`: Generates summary statistics for an object.
+8. `mean()`: Computes the arithmetic mean.
+9. `sum()`: Computes the sum of elements.
+10. `rm()`: Removes specified objects from the workspace.
+11. `View()`: Opens a data frame viewer for exploring data.
+12. `fix()`: Opens a data editor for modifying data frames.
+13. `library()`: Loads a specified R package.
+14. `read_excel()`: Reads data from an Excel file into R.
+15. `read.csv()`: Reads data from a CSV file into R.
+16. `str()`: Displays the structure of an R object.
